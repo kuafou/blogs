@@ -1,0 +1,8 @@
+# Gogland
+.idea
+
+# vim
+.swp
+
+# public
+public/

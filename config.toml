@@ -1,0 +1,20 @@
+baseURL = "http://www.kuafu.me/"
+languageCode = "zh-cn"
+defaultContentLanguage = "en-us"
+
+title = "自由小站"
+theme = "hugo-journal"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[params]
+  description = "记录点滴生活."
+  githubUsername = "kuafou"
+  # twitterUsername = "your_twitter_handle"
+  tagline = "与日逐走"
+
+[author]
+  # name = "kuafu"
+  homepage = "http://www.kuafu.me/"
+
